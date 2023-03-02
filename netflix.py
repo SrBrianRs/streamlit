@@ -5,6 +5,10 @@ import numpy as np
 
 
 st.title('Netflix App')
+st.title('Brian Sanchez Robles')
+st.sidebar.image("logo.jpeg")
+st.text('s19004873')
+st.sidebar.markdown("##")
 
 DATE_COLUMN = 'released'
 DATA_URL = ('movies.csv')
