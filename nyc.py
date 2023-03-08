@@ -5,7 +5,7 @@ import numpy as np
 st.title('Cicle Rides in NYC')
 st.sidebar.image("credencial.jpeg")
 st.sidebar.title('Brian Sanchez Robles')
-st.sidebar.title('S190048731')
+st.sidebar.title('S19004873')
 st.sidebar.title('zS19004873@estudiantes.uv.mx')
 st.sidebar.markdown("##")
 
